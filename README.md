@@ -2,13 +2,9 @@
 
 ### Apaixonado Desenvolvedor Full Stack do Brasil 🇧🇷
 
----
-
 ### 🚀 Sobre Mim
 
-Sou um Desenvolvedor Full Stack, **graduado em Análise e Desenvolvimento de Sistemas**. Minha jornada na tecnologia é impulsionada pela paixão em construir soluções eficientes e pelo constante mergulho em novas áreas do conhecimento. Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram habilidades como resolução de problemas, atenção aos detalhes e trabalho em equipe, essenciais para o universo dinâmico da tecnologia. Busco aplicar e evoluir essas competências em projetos desafiadores, colaborativos e com impacto real.
-
----
+Sou um Desenvolvedor Full Stack, graduado em Análise e Desenvolvimento de Sistemas. Minha jornada na tecnologia é impulsionada pela paixão em construir soluções eficientes e pelo constante mergulho em novas áreas do conhecimento. Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram habilidades como resolução de problemas, atenção aos detalhes e trabalho em equipe, essenciais para o universo dinâmico da tecnologia. Busco aplicar e evoluir essas competências em projetos desafiadores, colaborativos e com impacto real.
 
 ### ✨ Interesses
 
@@ -16,8 +12,6 @@ Sou um Desenvolvedor Full Stack, **graduado em Análise e Desenvolvimento de Sis
 - Cloud Computing
 - Cibersegurança
 - Novas Tecnologias e Inovação
-
----
 
 ### 🌱 Atualmente Aprofundando
 
@@ -28,12 +22,11 @@ Estou em constante aprimoramento em:
 - Cloud Computing (com foco em AWS/Azure/Google Cloud)
 - Cibersegurança (aspectos práticos e teóricos)
 
----
-
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diegof90) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@diegofontedev.com.br)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://www.diegofontedev.com.br) ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegof90/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@diegofontedev.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://www.diegofontedev.com.br)
 
 ### 💻 Linguagens, Frameworks & Ferramentas
 
@@ -69,11 +62,11 @@ Minha experiência abrange um ciclo completo de desenvolvimento, desde a concep�
 [![Clean Code](https://img.shields.io/badge/Clean%20Code-1B2F45?style=for-the-badge&logo=clean-code&logoColor=white)](https://github.com/trekhleb/javascript-algorithms/blob/master/LEAN_CODE.md)
 [![SOLID](https://img.shields.io/badge/SOLID-1B2F45?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.freecodecamp.org/news/solid-principles-explained-with-examples/)
 
----
-
 ### 📌 Projetos em Destaque
 
-- **[Portfolio Pessoal](https://www.diegofontedev.com.br)**: Meu website para apresentar minhas habilidades e projetos, com foco em desenvolvimento Full Stack e cibersegurança. _ **[Analisador de Força de Senha](https://github.com/Diego-Cruz-github/analisador-forca-senha)**: Ferramenta simples para avaliar a segurança de senhas, destacando boas práticas de cibersegurança. _ **[API RESTful com Spring Boot e SQLite](https://github.com/Diego-Cruz-github/API-RESTful-com-Spring-Boot-SQLite-HTML5-e-JavaScript)**: Projeto Full Stack com backend robusto em Java/Spring e frontend básico em HTML/JS, demonstrando CRUD e consumo de API.
+- **[Portfolio Pessoal](https://www.diegofontedev.com.br)**: Meu website para apresentar minhas habilidades e projetos, com foco em desenvolvimento Full Stack e cibersegurança.
+- **[Analisador de Força de Senha](https://github.com/Diego-Cruz-github/analisador-forca-senha)**: Ferramenta simples para avaliar a segurança de senhas, destacando boas práticas de cibersegurança.
+- **[API RESTful com Spring Boot e SQLite](https://github.com/Diego-Cruz-github/API-RESTful-com-Spring-Boot-SQLite-HTML5-e-JavaScript)**: Projeto Full Stack com backend robusto em Java/Spring e frontend básico em HTML/JS, demonstrando CRUD e consumo de API.
 - **[Web Service com Spring Boot 3 e JPA](https://github.com/Diego-Cruz-github/webservice-spboot3-jpa)**: Exemplo de web service robusto em Java, utilizando Spring Boot e JPA para persistência de dados.
 - **[Web Services com Spring Boot e MongoDB](https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices)**: Implementação de serviços backend em Java/Spring com integração a banco de dados NoSQL (MongoDB).
-- **ZowTI Website (Contribuição Frontend)**: Desenvolvimento e adaptação do frontend para o site institucional da ZowTI, empresa especializada em cibersegurança, forense digital e compliance. ---
+- **ZowTI Website (Contribuição Frontend)**: Desenvolvimento e adaptação do frontend para o site institucional da ZowTI, empresa especializada em cibersegurança, forense digital e compliance.
