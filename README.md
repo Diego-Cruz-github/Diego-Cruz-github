@@ -21,7 +21,7 @@ Estou em constante aprimoramento em:
 
 - Java e Spring (Especialização contínua)
 - JavaScript, CSS e HTML, além de Vue e React
-- Cibersegurança (aspectos práticos e teóricos)
+- Cibersegurança - http://www.zowti.com
 - Cloud Computing (com foco em AWS)
 
 
