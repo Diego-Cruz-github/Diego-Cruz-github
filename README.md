@@ -4,7 +4,9 @@
 
 ### 🚀 Sobre Mim
 
-Sou um Desenvolvedor Full Stack, graduado em Análise e Desenvolvimento de Sistemas. Minha jornada na tecnologia é impulsionada pela paixão em construir soluções eficientes e pelo constante mergulho em novas áreas do conhecimento. Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram habilidades como resolução de problemas, atenção aos detalhes e trabalho em equipe, essenciais para o universo dinâmico da tecnologia. Busco aplicar e evoluir essas competências em projetos desafiadores, colaborativos e com impacto real.
+Sou um Desenvolvedor Full Stack, com foco em tecnologias Java e Spring para o desenvolvimento backend, e experiência colaborativa em projetos frontend, utilizando HTML, CSS e JavaScript, além de React e Vue. Estou em constante aprofundamento não apenas no desenvolvimento Full Stack, mas também no universo da Cibersegurança, sendo co-fundador da ZowTI – empresa especializada em cibersegurança, conformidade digital, governança e Compliance. Além disso, dedico-me ao estudo e aplicação de soluções em Cloud (AWS) e Docker/Kubernetes, buscando otimizar implementações e resiliência. 
+
+Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram habilidades essenciais para a área tecnológica, como resolução de problemas, atenção aos detalhes e trabalho em equipe. Apaixonado por tecnologia, busco aplicar e evoluir essas competências em projetos desafiadores, colaborativos e com real impacto.
 
 ### ✨ Interesses
 
