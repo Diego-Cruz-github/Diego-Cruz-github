@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um Desenvolvedor Full Stack, com foco em tecnologias Java e Spring para o desenvolvimento backend, e experiência colaborativa em projetos frontend, utilizando HTML, CSS e JavaScript, além de React e Vue. Estou em constante aprofundamento não apenas no desenvolvimento Full Stack, mas também no universo da Cibersegurança, sendo co-fundador da ZowTI – empresa especializada em cibersegurança, conformidade digital, governança e Compliance. Além disso, dedico-me ao estudo e aplicação de soluções em Cloud (AWS) e Docker/Kubernetes, buscando otimizar implementações e resiliência. 
+Sou um Desenvolvedor Full Stack, com foco em tecnologias Java e Spring para o desenvolvimento backend, e experiência colaborativa em projetos frontend, utilizando HTML, CSS e JavaScript, além de React e **Angular**. Estou em constante aprofundamento não apenas no desenvolvimento Full Stack, mas também no universo da Cibersegurança, sendo co-fundador da ZowTI – empresa especializada em cibersegurança, conformidade digital, governança e Compliance. Além disso, dedico-me ao estudo e aplicação de soluções em Cloud (AWS) e Docker/Kubernetes, buscando otimizar implementações e resiliência. 
 
 Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram habilidades essenciais para a área tecnológica, como resolução de problemas, atenção aos detalhes e trabalho em equipe. Apaixonado por tecnologia, busco aplicar e evoluir essas competências em projetos desafiadores, colaborativos e com real impacto.
 
@@ -20,7 +20,7 @@ Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram 
 Estou em constante aprimoramento em:
 
 - Java e Spring (Especialização contínua)
-- JavaScript, CSS e HTML, além de Vue e React
+- JavaScript, CSS e HTML, além de Vue, **React** e **Angular**
 - Cibersegurança - http://www.zowti.com
 - Cloud Computing (com foco em AWS)
 
@@ -48,6 +48,8 @@ Minha experiência abrange um ciclo completo de desenvolvimento, desde a concep�
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 #### Ferramentas & Práticas
 
