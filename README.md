@@ -20,9 +20,10 @@ Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram 
 Estou em constante aprimoramento em:
 
 - Java e Spring (Especialização contínua)
-- JavaScript, CSS e HTML
-- Cloud Computing (com foco em AWS/Azure/Google Cloud)
+- JavaScript, CSS e HTML, além de Vue e React
 - Cibersegurança (aspectos práticos e teóricos)
+- Cloud Computing (com foco em AWS/Azure/Google Cloud)
+
 
 ### 🌐 Conecte-se Comigo
 
