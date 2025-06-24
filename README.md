@@ -11,8 +11,8 @@ Minhas vivências anteriores nas áreas ambiental e administrativa fortaleceram 
 ### ✨ Interesses
 
 - Desenvolvimento Full Stack
-- Cloud Computing
 - Cibersegurança
+- Cloud Computing
 - Novas Tecnologias e Inovação
 
 ### 🌱 Atualmente Aprofundando
