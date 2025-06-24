@@ -74,4 +74,4 @@ Minha experiência abrange um ciclo completo de desenvolvimento, desde a concep�
 - **[API RESTful com Spring Boot e SQLite](https://github.com/Diego-Cruz-github/API-RESTful-com-Spring-Boot-SQLite-HTML5-e-JavaScript)**: Projeto Full Stack com backend robusto em Java/Spring e frontend básico em HTML/JS, demonstrando CRUD e consumo de API.
 - **[Web Service com Spring Boot 3 e JPA](https://github.com/Diego-Cruz-github/webservice-spboot3-jpa)**: Exemplo de web service robusto em Java, utilizando Spring Boot e JPA para persistência de dados.
 - **[Web Services com Spring Boot e MongoDB](https://github.com/Diego-Cruz-github/Sts-NoSQLmongodb-webservices)**: Implementação de serviços backend em Java/Spring com integração a banco de dados NoSQL (MongoDB).
-- **ZowTI Website (Contribuição Frontend)**: Desenvolvimento e adaptação do frontend para o site institucional da ZowTI, empresa especializada em cibersegurança, forense digital e compliance.
+- **ZowTI Website **: Desenvolvimento e adaptação do frontend para o site institucional da ZowTI, empresa especializada em cibersegurança, forense digital e compliance.
