@@ -67,7 +67,7 @@ Minha experiência abrange um ciclo completo de desenvolvimento, desde a concep�
 
 ### 📌 Projetos em Destaque
 
-- **[Portfolio Pessoal](https://www.diegofontedev.com.br)**: Meu website para apresentar minhas habilidades e projetos, com foco em desenvolvimento Full Stack e cibersegurança.
+- **[Portfolio Pessoal](https://www.diegofontedev.com)**: Meu website para apresentar minhas habilidades e projetos, com foco em desenvolvimento Full Stack e cibersegurança.
 - **[Analisador de Força de Senha](https://github.com/Diego-Cruz-github/analisador-forca-senha)**: Ferramenta simples para avaliar a segurança de senhas, destacando boas práticas de cibersegurança.
 - **[API RESTful com Spring Boot e SQLite](https://github.com/Diego-Cruz-github/API-RESTful-com-Spring-Boot-SQLite-HTML5-e-JavaScript)**: Projeto Full Stack com backend robusto em Java/Spring e frontend básico em HTML/JS, demonstrando CRUD e consumo de API.
 - **[Web Service com Spring Boot 3 e JPA](https://github.com/Diego-Cruz-github/webservice-spboot3-jpa)**: Exemplo de web service robusto em Java, utilizando Spring Boot e JPA para persistência de dados.
