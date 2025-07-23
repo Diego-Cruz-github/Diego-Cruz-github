@@ -1,9 +1,7 @@
 # 👋 Olá! Eu sou Diego Cruz
 
-Sou **Desenvolvedor Full Stack** com foco em **Java** e no ecossistema **Spring** (Spring Boot, Security, JPA/Hibernate), combinando back-end robusto com aplicações modernas, seguras e bem estruturadas.  
+Sou **Desenvolvedor Full Stack** com foco em **Java** e no ecossistema **Spring** (Spring Boot, Security, JPA/Hibernate), atuando também com tecnologias front-end como **React, Vue.js, HTML, CSS e JavaScript** para a construção de interfaces modernas e responsivas.  
 Tenho experiência prática em projetos reais, com forte ênfase em **segurança, performance, SEO** e **infraestrutura em nuvem (AWS)**.
-
-Atuo também com **tecnologias front-end** como **React, Vue.js, HTML, CSS e JavaScript**, aplicando conceitos de usabilidade, responsividade e presença digital estratégica.
 
 ---
 
@@ -31,12 +29,42 @@ Responsável pelo desenvolvimento e publicação do site institucional, com apli
 
 ## 🛠️ Tech Stack & Competências
 
-**Back-end:** Java | Spring Boot | Spring Security | JPA/Hibernate | APIs RESTful  
-**Front-end & Web:** React | Vue.js | HTML | CSS | JavaScript | SEO Técnico  
-**Bancos de Dados:** PostgreSQL | SQLite | MongoDB  
-**Cloud & DevOps:** AWS | Docker | Kubernetes  
-**Segurança Aplicada:** OAuth2 | JWT | Cabeçalhos HTTP (CSP, HSTS, X-Frame) | SMTP Seguro | reCAPTCHA | LGPD  
-**Práticas:** Clean Code | SOLID | Arquitetura em Camadas | Swagger/OpenAPI | Postman
+### 🚀 Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### 🌐 Front-end & Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO-1B1F23?style=for-the-badge&logo=google&logoColor=white)
+
+### 🛢️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔐 Segurança Aplicada
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-2867B2?style=for-the-badge&logo=openid&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-008000?style=for-the-badge&logo=databricks&logoColor=white)
+![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 📚 Práticas
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-1F222C?style=for-the-badge&logo=solid&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
