@@ -73,7 +73,6 @@ Responsável pelo desenvolvimento e publicação do site institucional, com apli
 - 🌐 Portfólio: [diegofontedev.com](https://diegofontedev.com)  
 - 📫 E-mail: contato@diegofontedev.com  
 - 🛡️ ZowTI – Segurança e Tecnologia: [zowti.com](https://zowti.com)  
-- 💼 Logos Tec Securitizadora: [logossec.com](https://logossec.com)
 
 ---
 
