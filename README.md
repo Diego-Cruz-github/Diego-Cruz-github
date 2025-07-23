@@ -60,6 +60,12 @@ Responsável pelo desenvolvimento e publicação do site institucional, com apli
 ![LGPD](https://img.shields.io/badge/LGPD-008000?style=for-the-badge&logo=databricks&logoColor=white)
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+
+### 🤖 Inteligência Artificial
+![IA Aplicada](https://img.shields.io/badge/IA%20Aplicada-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ### 📚 Práticas
 ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-1F222C?style=for-the-badge&logo=solid&logoColor=white)
