@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Diego Cruz
+# 👋 Olá! Eu sou Diego Fonte
 
 Sou **Desenvolvedor Full Stack** com foco em **Java** e no ecossistema **Spring** (Spring Boot, Security, JPA/Hibernate), atuando também com tecnologias front-end como **React, Vue.js, HTML, CSS e JavaScript** para a construção de interfaces modernas e responsivas.  
 Tenho experiência prática em projetos reais, com forte ênfase em **segurança, performance, SEO** e **infraestrutura em nuvem (AWS)**.
