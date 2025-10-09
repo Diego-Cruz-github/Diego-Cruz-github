@@ -11,6 +11,7 @@ Passionate about reading, technology, and sports.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-18.x-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,6 +31,7 @@ Passionate about reading, technology, and sports.
 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GROQ](https://img.shields.io/badge/GROQ_API-FF6B35?style=for-the-badge&logo=ai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
@@ -39,7 +41,7 @@ Passionate about reading, technology, and sports.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![LGPD](https://img.shields.io/badge/LGPD_Compliance-008000?style=for-the-badge&logo=databricks&logoColor=white)
 
-*+ Advanced expertise in 50+ additional technologies including Spring Security, JPA/Hibernate, PHP, Next.js, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, GROQ, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Google PageSpeed, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
+*+ Expertise in 50+ additional technologies including Spring Security, JPA/Hibernate, Next.js, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
 
 **→ [Explore my repositories for detailed implementations and technical documentation](https://github.com/Diego-Cruz-github?tab=repositories)**
 
@@ -53,4 +55,4 @@ Passionate about reading, technology, and sports.
 ---
 
 *"Building secure, modern digital solutions with real impact."*  
-*Romans 11:36*
+*- Romans 11:36*
