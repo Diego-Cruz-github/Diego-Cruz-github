@@ -9,13 +9,16 @@ Passionate about reading, technology, and sports.
 ### Backend Development
 ![Java](https://img.shields.io/badge/Java-22-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-18.x-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-14.x-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-3.x-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -41,7 +44,19 @@ Passionate about reading, technology, and sports.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![LGPD](https://img.shields.io/badge/LGPD_Compliance-008000?style=for-the-badge&logo=databricks&logoColor=white)
 
-*+ Expertise in 50+ additional technologies including Spring Security, JPA/Hibernate, Next.js, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
+### Development Methodologies
+![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Best%20Practices-blue?style=for-the-badge&logo=code&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-Architecture-purple?style=for-the-badge&logo=architecture&logoColor=white)
+
+### Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-Methodology-FF9800?style=for-the-badge&logo=kanboard&logoColor=white)
+
+*+ Expertise in 40+ additional technologies including Spring Security, JPA/Hibernate, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
 
 **→ [Explore my repositories for detailed implementations and technical documentation](https://github.com/Diego-Cruz-github?tab=repositories)**
 
