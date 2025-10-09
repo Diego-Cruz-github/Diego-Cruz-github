@@ -1,7 +1,5 @@
 # Diego Fonte - Full Stack Developer | Cybersecurity & AI Focused
 
-Building secure, modern digital solutions with real impact. 
-
 Passionate about reading, technology, and sports. *Romans 11:36*
 
 ---
