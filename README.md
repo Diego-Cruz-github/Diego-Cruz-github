@@ -2,7 +2,7 @@
 
 Building secure, modern digital solutions with real impact. 
 
-Passionate about reading, technology, and sports. *"For from him and through him and to him are all things. To him be the glory forever! Amen." - Romans 11:36*
+Passionate about reading, technology, and sports. *Romans 11:36*
 
 ---
 
