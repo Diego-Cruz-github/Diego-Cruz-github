@@ -1,6 +1,6 @@
 # Diego Fonte - Full Stack Developer | Cybersecurity & AI Focused
 
-Passionate about reading, technology, and sports. *Romans 11:36*
+Passionate about reading, technology, and sports.
 
 ---
 
@@ -99,4 +99,5 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 
 ---
 
-*"Building secure, modern digital solutions with real impact."*
+*"Building secure, modern digital solutions with real impact."*  
+*Romans 11:36*
