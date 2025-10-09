@@ -14,6 +14,7 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend & Web
 ![React](https://img.shields.io/badge/React-18.x-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,6 +28,7 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 
 ### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-3.x-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.x+-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![H2](https://img.shields.io/badge/H2_Database-0078D4?style=for-the-badge&logo=database&logoColor=white)
@@ -34,6 +36,11 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -43,10 +50,14 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 ![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-8B0000?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### AI & Automation
+### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GROQ](https://img.shields.io/badge/GROQ_API-000000?style=for-the-badge&logo=ai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
@@ -54,6 +65,7 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Rich Terminal](https://img.shields.io/badge/Rich_Terminal-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -67,8 +79,11 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 ### Security Implementation
 ![CORS/CSRF](https://img.shields.io/badge/CORS_CSRF-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-2867B2?style=for-the-badge&logo=openid&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-4B0082?style=for-the-badge&logo=security&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-008000?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-FF0000?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
