@@ -41,7 +41,7 @@ Passionate about reading, technology, and sports.
 
 *+ Advanced expertise in 50+ additional technologies including Spring Security, JPA/Hibernate, PHP, Next.js, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, GROQ, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Google PageSpeed, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
 
-**→ Explore my repositories for detailed implementations and technical documentation**
+**→ [Explore my repositories for detailed implementations and technical documentation](https://github.com/Diego-Cruz-github?tab=repositories)**
 
 ---
 
