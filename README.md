@@ -84,6 +84,11 @@ Passionate about reading, technology, and sports. *Romans 11:36*
 ![HTTPS](https://img.shields.io/badge/HTTPS-008000?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD_Compliance-008000?style=for-the-badge&logo=databricks&logoColor=white)
+![ISO](https://img.shields.io/badge/ISO_Standards-0066CC?style=for-the-badge&logo=iso&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-8B0000?style=for-the-badge&logo=shield&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-FF4500?style=for-the-badge&logo=emergency&logoColor=white)
+![Risk Management](https://img.shields.io/badge/Cyber_Risk_Management-800080?style=for-the-badge&logo=risk&logoColor=white)
 
 ---
 
