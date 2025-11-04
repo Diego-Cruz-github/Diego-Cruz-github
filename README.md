@@ -56,7 +56,7 @@ Passionate about reading, technology, and sports.
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-Methodology-FF9800?style=for-the-badge&logo=kanboard&logoColor=white)
 
-*+ Expertise in 40+ additional technologies including Spring Security, JPA/Hibernate, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
+*Working with 40+ additional technologies including Spring Security, JPA/Hibernate, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
 
 **→ [Explore my repositories for detailed implementations and technical documentation](https://github.com/Diego-Cruz-github?tab=repositories)**
 
