@@ -1,71 +1,92 @@
-# Diego Fonte - Full Stack Developer | Cybersecurity & AI Focused
+# Diego Fonte - DevOps & Backend Engineer | Cloud Infrastructure
 
-Passionate about reading, technology, and sports.
+DevOps & Backend Engineer - sistemas em produção, infraestrutura cloud, segurança e automação.
 
 ---
 
 ## Core Technologies
 
-### Backend Development
-![Java](https://img.shields.io/badge/Java-22-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-18.x-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-14.x-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-3.x-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-3.x-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Database Systems
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.x+-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### DevOps & Cloud Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GROQ](https://img.shields.io/badge/GROQ_API-FF6B35?style=for-the-badge&logo=ai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24.x-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Cybersecurity
-![Security Scanner](https://img.shields.io/badge/Security_Scanner-Custom-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-18.x-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Database & Cache
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Observability & Monitoring
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+### Cybersecurity & Compliance
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR/LGPD-008000?style=for-the-badge&logo=databricks&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![LGPD](https://img.shields.io/badge/LGPD_Compliance-008000?style=for-the-badge&logo=databricks&logoColor=white)
+![ZowTiCheck](https://img.shields.io/badge/ZowTiCheck-Scanner-FF0000?style=for-the-badge&logo=shield&logoColor=white)
 
-### Development Methodologies
-![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-Best%20Practices-blue?style=for-the-badge&logo=code&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-Architecture-purple?style=for-the-badge&logo=architecture&logoColor=white)
+### AI & Integrations
+![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge&logo=ai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### Project Management
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-Methodology-FF9800?style=for-the-badge&logo=kanboard&logoColor=white)
+---
 
-*Working with 40+ additional technologies including Spring Security, JPA/Hibernate, TailwindCSS, Terraform, Jenkins, Nginx, Cloudflare, Hugging Face, LangChain, Zapier, Telegram/WhatsApp APIs, Postman, Swagger, Git, Power BI, OAuth2, bcrypt, HTTPS, Let's Encrypt, Fail2ban, ISO Standards, Threat Intelligence, Incident Response, and Cyber Risk Management.*
+## Production Projects
 
-**→ [Explore my repositories for detailed implementations and technical documentation](https://github.com/Diego-Cruz-github?tab=repositories)**
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[HoraAmiga](https://horaamiga.pt)** | EU-backed social care PWA/SaaS (Portugal 2030) | Node.js, K8s, Docker, Terraform, Grafana, AWS |
+| **[XÔ 171](https://xo171.org)** | Anti-fraud PWA - Co-founder & CTO (151+ scams) | React 18, Node.js, PostgreSQL, Cloudflare |
+| **RJR Reliable Transport** | Operations dashboard for US vehicle transport | Python, FastAPI, PostgreSQL, Playwright |
+| **Folha do Leste** | Cloud migration for news portal (Rio de Janeiro) | FastAPI, GCP Cloud Run, Cloudflare, Next.js |
+| **CRM + Chatbot WhatsApp** | AI-powered CRM for vehicle dealership | FastAPI, Baileys, Groq/Gemini, SQLite |
+| **PostAImovel** | Real estate SaaS for realtors | Node.js, React, MySQL, Hotmart, Groq |
+| **ZowTiCheck** | Python web security scanner (OWASP auditing) | Python, Flask, REST API |
+
+---
+
+## Infrastructure
+
+- Managing 5+ cloud VPS (Hetzner, DigitalOcean, AWS, GCP)
+- Automated backups, SSL/TLS, SSH hardening, UFW, fail2ban
+- 24/7 Telegram monitoring bots
+- CI/CD pipelines (GitHub Actions)
+- Zero-downtime deploys
 
 ---
 
 ## Contact & Portfolio
 
 **Portfolio**: [diegofontedev.com.br](https://diegofontedev.com.br/) | [EN](https://diegofontedev.com.br/index-en.html) | [ES](https://diegofontedev.com.br/index-es.html)  
-**Email**: contato@diegofontedev.com.br
+**Email**: contato@diegofontedev.com.br  
+**LinkedIn**: [linkedin.com/in/diegof90](https://linkedin.com/in/diegof90)  
+**English**: C1 Advanced (EF SET Certified)
 
 ---
 
