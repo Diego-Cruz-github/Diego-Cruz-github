@@ -1,6 +1,6 @@
 # Diego Fonte - DevOps & Backend Engineer | Cloud Infrastructure
 
-DevOps & Backend Engineer - sistemas em produção, infraestrutura cloud, segurança e automação.
+DevOps & Backend Engineer - production systems, cloud infrastructure, security and automation.
 
 ---
 
@@ -12,7 +12,7 @@ DevOps & Backend Engineer - sistemas em produção, infraestrutura cloud, segura
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -62,17 +62,17 @@ DevOps & Backend Engineer - sistemas em produção, infraestrutura cloud, segura
 |---------|-------------|-------|
 | **[HoraAmiga](https://horaamiga.pt)** | EU-backed social care PWA/SaaS (Portugal 2030) | Node.js, K8s, Docker, Terraform, Grafana, AWS |
 | **[XÔ 171](https://xo171.org)** | Anti-fraud PWA - Co-founder & CTO (151+ scams) | React 18, Node.js, PostgreSQL, Cloudflare |
-| **RJR Reliable Transport** | Operations dashboard for US vehicle transport | Python, FastAPI, PostgreSQL, Playwright |
-| **Folha do Leste** | Cloud migration for news portal (Rio de Janeiro) | FastAPI, GCP Cloud Run, Cloudflare, Next.js |
-| **CRM + Chatbot WhatsApp** | AI-powered CRM for vehicle dealership | FastAPI, Baileys, Groq/Gemini, SQLite |
-| **PostAImovel** | Real estate SaaS for realtors | Node.js, React, MySQL, Hotmart, Groq |
-| **ZowTiCheck** | Python web security scanner (OWASP auditing) | Python, Flask, REST API |
+| **[RJR Reliable Transport](https://github.com/Diego-Cruz-github/rjr-transport-dashboard)** | Operations dashboard for US vehicle transport | Python, FastAPI, PostgreSQL, Playwright |
+| **Hilariom Prefabricados** | Construction management system (PCP, Gantt, finance - 16 modules) | Node.js, Express, PostgreSQL, JWT, Docker |
+| **[CRM + Chatbot WhatsApp](https://github.com/Diego-Cruz-github/crm-chatbot-whatsapp-ia)** | AI-powered CRM for vehicle dealership | FastAPI, Baileys, Groq/Gemini, SQLite |
+| **[PostAImovel](https://github.com/Diego-Cruz-github/postaimovel-saas)** | Real estate SaaS for realtors | Node.js, React, MySQL, Hotmart, Groq |
+| **[ZowTiCheck](https://github.com/Diego-Cruz-github/ZowTiScan)** | Python web security scanner (OWASP auditing) | Python, Flask, REST API |
 
 ---
 
 ## Infrastructure
 
-- Managing 5+ cloud VPS (Hetzner, DigitalOcean, AWS, GCP)
+- Managing 5+ cloud VPS (Hetzner, DigitalOcean, AWS, Azure)
 - Automated backups, SSL/TLS, SSH hardening, UFW, fail2ban
 - 24/7 Telegram monitoring bots
 - CI/CD pipelines (GitHub Actions)
