@@ -72,9 +72,9 @@ DevOps & Backend Engineer - production systems, cloud infrastructure, security a
 
 ## Infrastructure
 
-- Managing 5+ cloud VPS (Hetzner, DigitalOcean, AWS, Azure)
+- Production experience across Hetzner, DigitalOcean, AWS and Azure
 - Automated backups, SSL/TLS, SSH hardening, UFW, fail2ban
-- 24/7 Telegram monitoring bots
+- 24/7 monitoring with Telegram alert bots
 - CI/CD pipelines (GitHub Actions)
 - Zero-downtime deploys
 
