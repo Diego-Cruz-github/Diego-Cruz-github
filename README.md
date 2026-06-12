@@ -60,10 +60,10 @@ DevOps & Backend Engineer - production systems, cloud infrastructure, security a
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[HoraAmiga](https://horaamiga.pt)** | EU-backed social care PWA/SaaS (Portugal 2030) | Node.js, K8s, Docker, Terraform, Grafana, AWS |
-| **[XÔ 171](https://xo171.org)** | Anti-fraud PWA - Co-founder & CTO (151+ scams) | React 18, Node.js, PostgreSQL, Cloudflare |
+| **[HoraAmiga](https://horaamiga.pt)** | EU-backed social care PWA/SaaS (Portugal 2030) | Node.js, Python, K8s, Docker, Terraform, Grafana, AWS |
+| **[XÔ 171](https://xo171.org)** | Anti-fraud PWA - CTO (151+ scams) | React 18, Node.js, Python, PostgreSQL, Cloudflare |
 | **[RJR Reliable Transport](https://github.com/Diego-Cruz-github/rjr-transport-dashboard)** | Operations dashboard for US vehicle transport | Python, FastAPI, PostgreSQL, Playwright |
-| **Hilariom Prefabricados** | Construction management system (PCP, Gantt, finance - 16 modules) | Node.js, Express, PostgreSQL, JWT, Docker |
+| **[Hilariom Prefabricados](https://github.com/Diego-Cruz-github/hilariom-gestao-obras)** | Construction management system (PCP, Gantt, finance - 16 modules) | Node.js, Express, PostgreSQL, JWT, Docker |
 | **[CRM + Chatbot WhatsApp](https://github.com/Diego-Cruz-github/crm-chatbot-whatsapp-ia)** | AI-powered CRM for vehicle dealership | FastAPI, Baileys, Groq/Gemini, SQLite |
 | **[PostAImovel](https://github.com/Diego-Cruz-github/postaimovel-saas)** | Real estate SaaS for realtors | Node.js, React, MySQL, Hotmart, Groq |
 | **[ZowTiCheck](https://github.com/Diego-Cruz-github/ZowTiScan)** | Python web security scanner (OWASP auditing) | Python, Flask, REST API |
